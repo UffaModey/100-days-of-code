@@ -23,6 +23,11 @@
 **Thoughts** 
 - CSS is exciting
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: Tuesday 21 September 2021
+
+**Today's Progress**: 
+- Continued Responsive Web Design Certification on FreeCodeCamp
+- Completed Basic CSS course
+
+**Thoughts** 
+- Felt quite unmotivated to do the challange today but gad that i found the strength to pull through
