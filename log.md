@@ -31,3 +31,15 @@
 
 **Thoughts** 
 - Felt quite unmotivated to do the challange today but gad that i found the strength to pull through
+
+### Day 4: Wednesday 22 September 2021
+
+**Today's Progress**:
+- Continued Responsive Web Design Certification on FreeCodeCamp
+- Started Applied Visual Design course
+- Read some technical Pyhon documentation
+
+**Thoughts**
+- Can't wait to go home :)
+
+
