@@ -37,7 +37,7 @@
 **Today's Progress**:
 - Continued Responsive Web Design Certification on FreeCodeCamp
 - Started Applied Visual Design course
-- Read some technical Pyhon documentation
+- Read some technical Python documentation
 
 **Thoughts**
 - Can't wait to go home :)
