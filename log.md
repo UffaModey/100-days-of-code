@@ -42,4 +42,12 @@
 **Thoughts**
 - Can't wait to go home :)
 
+### Day 5: Thursday 23 September 2021
 
+**Today's Progress**:
+- Continued Applied Visual Design course on FreeCodeCamp
+- Created a HTML cheatsheet
+- Read up on Web 3.0 and created an infograph
+
+**Thoughts**
+- I really should not have eaten all this pizza for lunch
