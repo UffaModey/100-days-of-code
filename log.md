@@ -51,3 +51,11 @@
 
 **Thoughts**
 - I really should not have eaten all this pizza for lunch
+
+### Day 8: Sunday 26 September 2021
+
+**Today's Progress**:
+- completed a tutorial on cntributing to open source github projects
+
+**Thoughts**
+- What open source projects can i contribute to?
