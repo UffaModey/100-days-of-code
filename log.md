@@ -59,3 +59,12 @@
 
 **Thoughts**
 - What open source projects can i contribute to?
+
+### Day 11/12: Friday-Saturday 1-2 October 2021
+
+**Today's Progress**:
+- Registered for Hacktoberfest and joined the Discord
+- Started an SQL course on W3Schools foundational understanding of databases
+
+**Thoughts**
+- Excited about making valid contributions at hacktoberfest
