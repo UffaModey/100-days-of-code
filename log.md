@@ -68,3 +68,13 @@
 
 **Thoughts**
 - Excited about making valid contributions at hacktoberfest
+
+### Day 13: Sunday 3 October 2021
+
+**Today's Progress**:
+- Made my first Hacktoberfest pull request
+- Revised documentation for using git
+- Continued an SQL course on W3Schools foundational understanding of databases
+
+**Thoughts**
+- Excited about making valid contributions at hacktoberfest
